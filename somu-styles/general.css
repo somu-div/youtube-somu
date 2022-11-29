@@ -1,0 +1,18 @@
+p{
+  font-family: 'Roboto', sans-serif;
+  margin-top:10px;
+  margin-bottom: 2px;
+  color:rgb(102, 101, 101);
+  cursor: pointer;
+  
+}
+img{
+cursor:pointer;
+width: 40px;
+margin:0px;
+}
+
+
+body{
+  padding: 120px 30px 120px 50px;
+}
